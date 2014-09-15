@@ -1,5 +1,13 @@
 # MVC for the Web
 
+
+**NOTE:**  copy marked.js from 'js/' to 'bower_components/reveal.js/plugin/markdown/' after bower has installed.
+
+  cp js/marked.js bower_components/reveal.js/plugin/markdown/
+
+
+---
+
 There are a number of popular Web frameworks described as using MVC, or with MVC in the title, that are actually based on what has come to be known as Model 2. This can be confusing for people trying to understand how everything fits together in a chosen framework. Papers, books, and web pages most often describe MVC as it applies to GUIs, and the mismatch can be confusing.
 
 The aim of the talk is to briefly describe a generalized adaption of Model-View-Controller for the Web commonly known as Model 2. This may aid in understanding the architecture of a number of popular web frameworks, such as:
