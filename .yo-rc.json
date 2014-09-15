@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "MVC",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": false,
+    "githubUsername": "example_username",
+    "githubRepository": "example_repository"
+  }
+}
