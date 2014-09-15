@@ -41,7 +41,7 @@ module.exports = (grunt) ->
                     basePath: ''
                     sassDir: 'css/source'
                     cssDir: 'css'
-                    imagesDir: 'css'
+                    imagesDir: 'css/img'
                     fontsDir: 'css/fonts'
                 files:
                     'css/theme.css': 'css/source/theme.scss'
@@ -85,6 +85,7 @@ module.exports = (grunt) ->
                         'bower_components/**'
                         'js/**'
                         'css/*.css'
+                        'css/img/**'
                         'assets/**'
                     ]
                     dest: 'dist/'
