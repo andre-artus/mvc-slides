@@ -1,10 +1,10 @@
 {
   "generator-reveal": {
     "presentationTitle": "MVC",
-    "packageVersion": "0.0.0",
+    "packageVersion": "0.0.1",
     "useSass": true,
-    "deployToGithubPages": false,
-    "githubUsername": "example_username",
-    "githubRepository": "example_repository"
+    "deployToGithubPages": true,
+    "githubUsername": "andre-artus",
+    "githubRepository": "mvc-slides"
   }
 }
