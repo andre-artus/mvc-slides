@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ra",
+				"randomText	IO Text"
+			],
+			[
+				"new",
+				"newStdGen	IO StdGen"
+			],
+			[
+				"Str",
+				"String	Text -> Value"
+			],
+			[
+				"pu",
+				"putStrLn	String -> IO ()"
+			],
+			[
+				"ch",
+				"Char8"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"pred",
+				"Preferences: Settings - Default"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"ty",
+				"SublimeHaskell: Show type"
+			],
+			[
+				"typ",
+				"SublimeHaskell: Show type"
+			],
+			[
+				"for	",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"hask",
+				"SublimeHaskell: Rebuild"
+			],
+			[
+				"run",
+				"SublimeHaskell: Run"
+			],
+			[
+				"lin",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"has",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: Emmet"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andreartus/Source/slides/mvc/Gruntfile.coffee",
+		"/Users/andreartus/Source/haskell/MonkeySee2/Handler/Home.hs",
+		"/Users/andreartus/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/andreartus/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andreartus/Library/Application Support/Sublime Text 3/Packages/User/SublimeHaskell.sublime-settings",
+		"/Users/andreartus/Source/haskell/HelloYesod/helloworld.hs",
+		"/Users/andreartus/.bash_profile",
+		"/Users/andreartus/Documents/Greg/fields.json",
+		"/Users/andreartus/Library/Application Support/Sublime Text 3/Packages/SublimeHaskell/Settings/SublimeHaskell.sublime-settings",
+		"/Users/andreartus/Documents/haskell install",
+		"/Users/andreartus/.cabal/config",
+		"/Users/andreartus/Movies/stuff/getfiles.bat",
+		"/Users/andreartus/.cabal/config.platform",
+		"/Users/andreartus/.cabal/logs/cabal-install-1.20.0.3.log",
+		"/Users/andreartus/Source/haskell/MonkeySee/.envrc",
+		"/Users/andreartus/Source/d/MonkeyMan/dub.json",
+		"/Users/andreartus/Source/haskell/MonkeySee/sources.txt",
+		"/Users/andreartus/Source/eclipse/PrimeEval/Setup.hs",
+		"/Users/andreartus/Source/eclipse/PrimeEval/src/Main.hs"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"com",
+			"sass",
+			"trim",
+			"Monkey",
+			")\n",
+			"add_to_PATH",
+			"\\s+",
+			"$ cabal install "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "benefits.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
