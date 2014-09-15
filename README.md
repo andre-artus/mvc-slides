@@ -19,3 +19,5 @@ While some of the frameworks listed above more accurately model further derivati
 [Model-View-Presenter]: http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter
 [Model-View-ViewModel]: http://en.wikipedia.org/wiki/Model_View_ViewModel
 
+
+Slides: https://andre-artus.github.io/mvc-slides
