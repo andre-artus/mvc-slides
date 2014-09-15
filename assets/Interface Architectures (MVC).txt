@@ -1,0 +1,105 @@
+Interface Architectures (MVC)
+MVC
+Model2
+RIMP - Rails Interpretation of MVC Pattern
+
+
+History
+	1978-79 Learning Research Group @ Xerox PARC
+	Set of notes on DynaBook Requirements
+
+
+Purpose
+	Design principles
+		Low Coupling; High Cohesion
+		Separation of Domain Logic from Presentation
+ 	BOCTAOE
+
+Compare
+	Autonomous View
+		Combines state, logic and presentation in one place
+		Difficult to test
+
+	Presentation-Abstraction-Control, or PAC
+		Drupal
+		http://robknight.org.uk/blog/2011/02/explaining-architectural-tiers-drupal/
+
+
+Related
+	MV*
+	MV(*)
+	H-MVC
+	MVVM - Model-View-ViewModel
+	MVP - Model-View-Presenter
+		Supervising Controller | Supervising Presenter
+	PM - Presentation Model
+
+
+What
+	Architecture
+		Fancy word for design
+		Architecture is about the important stuff
+		reducing irreversibility
+		Coupling versus Cohesion
+			Figuring out if two people are married is easy.
+			Figuring out if they should be is hard.
+			-- Richard Dalton
+
+	Model
+		Domain Model
+
+	View
+	Controller
+		Front Controller
+		Page Controller
+
+Service to Worker
+Dispatcher View
+
+Why
+	Benefits
+		Compartmentalization
+			Presentation code requires different skills and knowledge to domain code.
+
+		Maintainability
+			Presentation logic and domain logic are easier to understand when separate.
+
+		Testability
+			User interfaces and Persistence(DB) are hard to test, separation keeps more logic in more testable places.
+
+		Extensibility
+			You can support multiple presentations without duplicating code.
+			You can easily add a programmatic API for scripting or exposed as services (E.g. Service Layer as presentation).
+
+
+
+	Drawbacks & Limitations
+		Complexity of implementation (mitigated by using frameworks)
+		Coupling between View and Controller (Command Pattern)
+
+
+
+
+
+How (Web)
+	Model
+		View Model | Presentation Model
+		Service Model
+		Mapping versus Wrapping
+
+	Routing
+		Dispatcher
+
+	Data Binding | Model Binding
+		Analogous to $form_state['values']
+		Static versus Dynamic types
+
+	Controller
+		Page Controller
+		Front Controller
+
+	View
+		Templated View
+		Composite View
+
+

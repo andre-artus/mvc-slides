@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Parts
+
+
+
+
+
+## Route Mapping
+There are several methods by which Command objects can be identified and routes mapped to Actions:
+
+### By Convention:
+	* Classes located in a special folder, e.g. "**controllers**/purchase"
+	* Classes named with a special affix (prefix, infix, suffix), e.g. "Purchase**Controller**"
+	* Methods with special names, or named with a special affix, e.g. "**get**Order", or "**Index**"
+
+### By Configuration:
+	* Mapping in external configuration files e.g. XML (Struts), YAML (Symfony 1), and the like
+	* Mapping by building a route table in code. E.g. "$routeProvider" in AngularJS
+	* Mapping by using metadata. E.g. "@RequestMapping" in Spring MVC or "@Route" in Symfony
+
+### By Declaration
+	* Inheriting from a "Controller" class, or implementing a "Controller" interface.
+
+* Routes can contain patterns and wildcards that indicate what part of a path should be passed through to the Action's parameters as arguments.
+
+## Model Binding
+Some
+
