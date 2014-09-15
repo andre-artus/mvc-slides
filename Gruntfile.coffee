@@ -94,6 +94,17 @@ module.exports = (grunt) ->
                     filter: 'isFile'
                 }]
 
+        buildcontrol:
+
+            options:
+                dir: 'dist'
+                commit: true
+                push: true
+                message: 'Built from %sourceCommit% on branch %sourceBranch%'
+            pages:
+                options:
+                    remote: 'git@github.com:andre-artus/mvc-slides.git'
+                    branch: 'gh-pages'
 
 
 
@@ -144,6 +155,11 @@ module.exports = (grunt) ->
             'copy'
         ]
 
+    grunt.registerTask 'deploy',
+        'Deploy to Github Pages', [
+            'dist'
+            'buildcontrol'
+        ]
 
 
     # Define default task.
