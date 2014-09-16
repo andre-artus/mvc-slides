@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
 <svg width="11cm" height="8cm" viewBox="339 119 213 142" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style type="text/css">
+    /* <![CDATA[ */
+      text {
+        fill: #000000;
+        text-anchor:middle;
+        font-family:'PT Sans', sans-serif;
+        font-style:normal;
+        font-weight:700;
+      }
+    /* ]]> */
+  </style>
   <g>
     <rect style="fill: #ffffff" x="400" y="120" width="58.6" height="28"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="120" width="58.6" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:'PT Sans';font-style:normal;font-weight:700" x="429.3" y="140">Model</text>
+    <text font-size="16" x="429.3" y="140">Model</text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="340" y="200" width="49.6" height="28"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="200" width="49.6" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:'PT Sans';font-style:normal;font-weight:700" x="364.8" y="220">View</text>
+    <text font-size="16" x="364.8" y="220">View</text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="460" y="200" width="90.5" height="28"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="460" y="200" width="90.5" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:'PT Sans';font-style:normal;font-weight:700" x="505.25" y="220">Controller</text>
+    <text font-size="16" x="505.25" y="220">Controller</text>
   </g>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="505.25,198.993 505.25,178 429.3,178 429.3,155.713 "/>
