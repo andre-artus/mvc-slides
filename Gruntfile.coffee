@@ -41,7 +41,7 @@ module.exports = (grunt) ->
                     basePath: ''
                     sassDir: 'css/source'
                     cssDir: 'css'
-                    imagesDir: 'css/img'
+                    imagesDir: 'css'
                     fontsDir: 'css/fonts'
                 files:
                     'css/theme.css': 'css/source/theme.scss'
