@@ -1,3 +1,3 @@
 ##  Context
 
-![MVC Context](assets/PatternHierarchy.svg)
+<div>![MVC Context](assets/PatternHierarchy.svg)</div>
