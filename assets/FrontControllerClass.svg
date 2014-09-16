@@ -4,7 +4,7 @@
 <svg version="1.1"
 	 id="Layer_1" text-rendering="auto" color-rendering="auto" shape-rendering="auto" image-rendering="auto" color-interpolation="auto"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 314 170"
-	 enable-background="new 0 0 314 170" xml:space="preserve" width="1000px" height="450px" preserveAspectRatio="xMidYMin meet">
+	 enable-background="new 0 0 314 170" xml:space="preserve" width="20cm" height="11cm" preserveAspectRatio="xMidYMin meet">
 <g>
 	<g text-rendering="geometricPrecision">
 		<rect fill="#FFFFFF" width="314" height="170"/>
@@ -51,7 +51,7 @@
 				<use xlink:href="#SVGID_7_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_8_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 2 14)" font-family="Arial" font-size="11">#doGet()</text>
+				<text transform="matrix(1 0 0 1 2 14)" font-family="'PT Sans'" font-size="11">#doGet()</text>
 			</g>
 		</g>
 	</g>
@@ -64,7 +64,7 @@
 				<use xlink:href="#SVGID_9_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_10_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 2 29)" font-family="Arial" font-size="11">#doPost()</text>
+				<text transform="matrix(1 0 0 1 2 29)" font-family="'PT Sans'" font-size="11">#doPost()</text>
 			</g>
 		</g>
 		<g>
@@ -75,7 +75,7 @@
 				<use xlink:href="#SVGID_11_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_12_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 2 44)" font-family="Arial" font-size="11">#doPut()</text>
+				<text transform="matrix(1 0 0 1 2 44)" font-family="'PT Sans'" font-size="11">#doPut()</text>
 			</g>
 		</g>
 		<g>
@@ -86,7 +86,7 @@
 				<use xlink:href="#SVGID_13_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_14_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 2 59)" font-family="Arial" font-size="11">#doDelete()</text>
+				<text transform="matrix(1 0 0 1 2 59)" font-family="'PT Sans'" font-size="11">#doDelete()</text>
 			</g>
 		</g>
 		<g>
@@ -97,7 +97,7 @@
 				<use xlink:href="#SVGID_15_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_16_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 2 74)" font-family="Arial" font-size="11">+handleRequest()</text>
+				<text transform="matrix(1 0 0 1 2 74)" font-family="'PT Sans'" font-size="11">+handleRequest()</text>
 			</g>
 		</g>
 	</g>
@@ -110,7 +110,7 @@
 				<use xlink:href="#SVGID_17_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_18_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 26 12)" font-family="'Arial-BoldMT'" font-size="11">Handler</text>
+				<text transform="matrix(1 0 0 1 26 12)" font-family="'PT Sans'" font-weight="bold" font-size="11">Handler</text>
 			</g>
 		</g>
 	</g>
@@ -156,7 +156,7 @@
 				<use xlink:href="#SVGID_25_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_26_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 2 14)" font-family="Arial" font-size="11">+process()</text>
+				<text transform="matrix(1 0 0 1 2 14)" font-family="'PT Sans'" font-size="11">+process()</text>
 			</g>
 		</g>
 	</g>
@@ -169,7 +169,7 @@
 				<use xlink:href="#SVGID_27_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_28_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 4 12)" font-family="'Arial-BoldMT'" font-size="11">Abstract Command</text>
+				<text transform="matrix(1 0 0 1 4 12)" font-family="'PT Sans'" font-weight="bold" font-size="11">Abstract Command</text>
 			</g>
 		</g>
 	</g>
@@ -215,7 +215,7 @@
 				<use xlink:href="#SVGID_35_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_36_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 2 14)" font-family="Arial" font-size="11">+process()</text>
+				<text transform="matrix(1 0 0 1 2 14)" font-family="'PT Sans'" font-size="11">+process()</text>
 			</g>
 		</g>
 	</g>
@@ -228,7 +228,7 @@
 				<use xlink:href="#SVGID_37_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_38_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 19 12)" font-family="'Arial-BoldMT'" font-size="11">Concrete</text>
+				<text transform="matrix(1 0 0 1 19 12)" font-family="'PT Sans'" font-weight="bold" font-size="11">Concrete</text>
 			</g>
 		</g>
 		<g>
@@ -239,7 +239,7 @@
 				<use xlink:href="#SVGID_39_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_40_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 12 27)" font-family="'Arial-BoldMT'" font-size="11">Command 1</text>
+				<text transform="matrix(1 0 0 1 12 27)" font-family="'PT Sans'" font-weight="bold" font-size="11">Command 1</text>
 			</g>
 		</g>
 	</g>
@@ -285,7 +285,7 @@
 				<use xlink:href="#SVGID_47_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_48_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 2 14)" font-family="Arial" font-size="11">+process()</text>
+				<text transform="matrix(1 0 0 1 2 14)" font-family="'PT Sans'" font-size="11">+process()</text>
 			</g>
 		</g>
 	</g>
@@ -298,7 +298,7 @@
 				<use xlink:href="#SVGID_49_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_50_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 15 12)" font-family="'Arial-BoldMT'" font-size="11">Concrete</text>
+				<text transform="matrix(1 0 0 1 15 12)" font-family="'PT Sans'" font-weight="bold" font-size="11">Concrete</text>
 			</g>
 		</g>
 		<g>
@@ -309,7 +309,7 @@
 				<use xlink:href="#SVGID_51_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(#SVGID_52_)" enable-background="new    ">
-				<text transform="matrix(1 0 0 1 8 27)" font-family="'Arial-BoldMT'" font-size="11">Command 2</text>
+				<text transform="matrix(1 0 0 1 8 27)" font-family="'PT Sans'" font-weight="bold" font-size="11">Command 2</text>
 			</g>
 		</g>
 	</g>
