@@ -4,15 +4,15 @@ There are a number of popular Web frameworks described as using MVC, or with MVC
 
 The aim of the talk is to briefly describe a generalized adaption of Model-View-Controller for the Web commonly known as Model 2. This may aid in understanding the architecture of a number of popular web frameworks, such as:
 
-Angular.js
-ASP.NET MVC
-Backbone.js
-CakePHP
-Express.js
-Java/Scala Play
-Knockout
-Spring MVC
-Symfony
+* Angular.js
+* ASP.NET MVC
+* Backbone.js
+* CakePHP
+* Express.js
+* Java/Scala Play
+* Knockout
+* Spring MVC
+* Symfony
 
 While some of the frameworks listed above more accurately model further derivatives such as [Model-View-Presenter][], or [Model-View-ViewModel][] understanding how MVC was adapted for the web may aid in understanding how the derived patterns are adapted.
 
