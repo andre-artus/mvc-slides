@@ -7,7 +7,6 @@
         "design-principles-0.md",
         "design-principles-1.md"
     ],
-
     [
         "benefits-0.md",
         "benefits-1.md",
@@ -23,6 +22,10 @@
         "components-3.md"
     ],
     [
+        "model-0.md",
+        "model-binding.md"
+    ],
+    [
         "front-controller-pattern-0.md",
         "front-controller-pattern-1.md",
         "front-controller-pattern-2.md",
@@ -36,6 +39,5 @@
         "route-mapping-2.md",
         "route-mapping-3.md",
         "route-mapping-4.md"
-    ],
-    "model-binding.md"
+    ]
 ]

@@ -1,7 +1,4 @@
-##  Components
-
-
-### Controller
+###  Components: Controller
 * Takes input
 * Manipulates the Model (initiates domain logic)
 * Decides on which View to return to the Client, based on criteria such as whether an operation on the Model was successful or not.
