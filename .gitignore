@@ -5,4 +5,5 @@ dist
 .sass-cache
 index.html
 assets/*.txt
+slides/*.txt
 *.sublime-workspace
