@@ -11,6 +11,7 @@ The aim of the talk is to briefly describe a generalized adaption of Model-View-
 * Express.js
 * Java/Scala Play
 * Knockout
+* Ruby on Rails
 * Spring MVC
 * Symfony
 
