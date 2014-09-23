@@ -17,13 +17,9 @@
     "drawbacks.md",
     [
         "components-0.md",
-        "components-1.md",
-        "components-2.md",
-        "components-3.md"
-    ],
-    [
-        "model-0.md",
-        "model-binding.md"
+        "components-1-model.md",
+        "components-2-view.md",
+        "components-3-controller.md"
     ],
     [
         "front-controller-pattern-0.md",
